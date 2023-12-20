@@ -50,3 +50,6 @@ If you find my work helpful and want to support me, consider making a donation. 
 - [![Github](https://img.shields.io/badge/Github-Solacexcv-purple?style=for-the-badge&logo=github)](https://github.com/solacexcv)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-PHILIPKYS-indigo?style=for-the-badge&logo=telegram)](https://t.me/Philipkys)
+
+-
+[![Tiktok](https://img.shields.io/badge/Tiktok
