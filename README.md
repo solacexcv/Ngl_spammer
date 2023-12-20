@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/NGL-SPAM/main/Screenshot_20231221-061352.png", width="800", height="800">
 </p>
-<h1 align="center"> DEDSEC_NGL_SPAMMER</h1>
-<h4 align="center">DEDSEC_NGL_SPAMMER is a ngl spammer and exploit tool that can flood someone inbox and delete using username only.</h4>
+<h1 align="center"> NGL_SPAMMER</h1>
+<h4 align="center"> NGL_SPAMMER is a ngl spammer and exploit tool that can flood someone inbox using username only.</h4>
 
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_NGL_SPAMMER.git
