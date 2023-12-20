@@ -51,4 +51,4 @@ If you find my work helpful and want to support me, consider making a donation. 
 
 - [![Telegram](https://img.shields.io/badge/Telegram-PHILIPKYS-indigo?style=for-the-badge&logo=telegram)](https://t.me/Philipkys)
 
-- [![Tiktok](https://img.shields.io/badge/Tiktok-Solacezr-orange?style=for-the-badge&logo=Tiktok)](https://tiktok/solacezr)
+- [![Tiktok](https://img.shields.io/badge/Tiktok-Solacezr-orange?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/@solacezr?)
