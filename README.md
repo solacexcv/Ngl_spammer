@@ -28,3 +28,9 @@ If you find my work helpful and want to support me, consider making a donation. 
 <h1 align="center"> DISCLAIMER </h1>
 
 <h4 align="center">I'm not responsible for anything you do with this program, so please only use it for good and educational purposes. </h4>
+
+## [~] Find Me on :
+
+- [![Github](https://img.shields.io/badge/Github-Solacexcv-purple?style=for-the-badge&logo=github)](https://github.com/solacexcv)
+
+- [![Telegram](https://img.shields.io/badge/Telegram-PHILIPKYS-indigo?style=for-the-badge&logo=telegram)](https://t.me/Philipkys)
