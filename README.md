@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/NGL-SPAM/main/Screenshot_20231221-061352.png?token=GHSAT0AAAAAACL2J3BUAHHQ4JXFHVYSYH7OZMDOFDQ", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/NGL-SPAM/main/banner.png?token=GHSAT0AAAAAACL2J3BU32KBJKYC5VTU32TMZMDOMZA", width="800", height="800">
 </p>
 <h1 align="center"> NGL_SPAMMER</h1>
 <h4 align="center"> NGL_SPAMMER is a ngl spammer and exploit tool that can flood someone inbox using username only.</h4>
