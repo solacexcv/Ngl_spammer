@@ -10,7 +10,7 @@
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-solacexcv-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-No-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Philippines-red?colorA=blue&colorB=red&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
