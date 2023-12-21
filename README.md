@@ -26,7 +26,7 @@
 * pkg upgrade -y
 * pkg install git
 * pkg install python
-* https://github.com/solacexcv/Ngl_spammer
+* git clone https://github.com/solacexcv/Ngl_spammer
 * cd Ngl_spammer
 * python spam.py
 
